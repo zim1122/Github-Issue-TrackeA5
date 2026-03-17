@@ -22,6 +22,6 @@ the 'forEach()' method is basically a method that loops through an array, simila
     Answer:04
 Ans: An 'arrow' function in JavaScript is a shorter way to write a function using the '=>' syntax. It’s like a shortcut for function, and it makes code cleaner and easier to read.
 
-   Answer:05
+    Answer:05
 Template literals in JavaScript are the modern way to write strings that is more flexible and readable. Instead of using quotes ("" or '') or concat method, you use backticks `. Backticks allowes you to embed variables or expressions useing ${} or multiline HTML code directly inside a string.
 
